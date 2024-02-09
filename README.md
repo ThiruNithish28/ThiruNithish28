@@ -1,14 +1,15 @@
-### Hi there 👋
 
-I'm **Thirumavalavan**, a passionate **Full Stack Developer** with a drive to innovate and solve real-world problems through technology. I'm currently pursuing my B.Tech in Computer Science & Business System at K Ramakrishnan College Of Engineering and actively honing my skills through internships and personal projects.
 
+I'm **Thirumavalavan**, a passionate **Full Stack Developer** with a drive to innovate and solve real-world problems through technology. 
+
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
 <h1 align="center">Hi 👋, I'm Thirumavalavan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thirunithish28&label=Profile%20views&color=0e75b6&style=flat" alt="thirunithish28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thirunithish28" alt="thirunithish28" /></a> </p>
+<p align="center"> I'm currently pursuing my B.Tech in Computer Science & Business System at K Ramakrishnan College Of Engineering and actively honing my skills through internships and personal projects. </p>
 
 - 🔭 I’m currently working on **Self-actualization**
 
