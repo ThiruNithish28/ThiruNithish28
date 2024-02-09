@@ -1,9 +1,3 @@
-
-
-I'm **Thirumavalavan**, a passionate **Full Stack Developer** with a drive to innovate and solve real-world problems through technology. 
-
- <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
-
 <h1 align="center">Hi 👋, I'm Thirumavalavan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -11,6 +5,7 @@ I'm **Thirumavalavan**, a passionate **Full Stack Developer** with a drive to in
 
 <p align="center"> I'm currently pursuing my B.Tech in Computer Science & Business System at K Ramakrishnan College Of Engineering and actively honing my skills through internships and personal projects. </p>
 
+ <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 - 🔭 I’m currently working on **Self-actualization**
 
 - 🌱 I’m currently learning **Java Full Stack**
