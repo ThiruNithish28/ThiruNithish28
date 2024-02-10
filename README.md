@@ -78,7 +78,7 @@
 ###
 
 <br clear="both">
-
+<h1>🐍 My Contributions </h1>
 <img src="https://raw.githubusercontent.com/ThiruNithish28/ThiruNithish28/output/snake.svg" alt="Snake animation" />
 
 ###
