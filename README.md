@@ -27,15 +27,18 @@
 
 ###
 
+<img align="right" height="210" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif"  />
+
 <p align="left">🔭 I’m currently working on Self-actualization<br>🌱 I’m currently learning Java Full Stack<br>💬 Ask me about Java, front-end<br>📫 How to reach me: valavannithish.007@gmail.com</p>
 
 ###
 
+<br/><br/>
 <h1 align="left">💻 I code with :</h1>
 
 ###
 
-<img align="right" height="210" src="https://miro.medium.com/max/1600/0*C-cPP9D2MIyeexAT.gif"  />
+
 
 ###
 
